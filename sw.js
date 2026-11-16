@@ -1,8 +1,9 @@
-/* Auto-generated flat PWA Service Worker (0e53036a4693) */
-const CACHE_NAME = 'sonora-flat-0e53036a4693';
+/* Auto-generated flat PWA Service Worker (0e53036a4694) */
+const CACHE_NAME = 'sonora-flat-0e53036a4694';
 const PRECACHE_URLS = [
   "./",
   "./app.css",
+  "./polish.css",
   "./app.js",
   "./icon-192.png",
   "./icon-512.png",
